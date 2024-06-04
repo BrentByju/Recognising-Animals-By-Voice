@@ -1,0 +1,25 @@
+
+
+#TitleDiv{
+    position: absolute;
+    width: 100%;
+    background-color: rgb(152, 58, 229);
+    font-weight: 200;
+}
+
+#contents{
+    border-color: rgb(152, 58, 229);
+    border-radius: 30px;
+    border-width: 10px;
+    width: 80%;
+}
+
+#Button{
+    border-color: rgb(152, 58, 229);
+    border-radius: 50px;
+    border-width: 10px;
+    height: 130px;
+    width: 50%;
+    background-color: white;
+}
+
